@@ -10,7 +10,7 @@ body{
 }
 .main{
     height: 644px;
-    background-image: url("./main\ image.jpg");
+    background-image: url("./images/main\ image.jpg");
     background-position: center center;
     background-size: max(1200px, 100vw);
     background-repeat: no-repeat;    
